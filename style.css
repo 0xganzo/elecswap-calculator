@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  float: left;
+  height: 15px;
+  width: 15px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  clear: both;
+}
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
